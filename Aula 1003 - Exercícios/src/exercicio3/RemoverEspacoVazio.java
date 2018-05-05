@@ -29,6 +29,8 @@ public class RemoverEspacoVazio {
 	    	
 	    	System.out.print(array[i]);	    		     	
 	    } 
+	    
+	    System.out.println("\nQuantidade de espaços vazios:\n" + contA);
 	}
 
 }
